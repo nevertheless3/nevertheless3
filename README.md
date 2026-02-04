@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi I'm Sarina!!
 
-<!--
-**nevertheless3/nevertheless3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High school student | SAMPAD system  
+🔍 I like turning pixels into math formulas  
+🤖 Currently working on ML, DL, and Computer Vision
 
-Here are some ideas to get you started:
+## My favorite tools and thecnologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
