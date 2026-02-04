@@ -29,9 +29,4 @@
   </tr>
 </table>
 
-![Sarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevertheless3&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nevertheless3&layout=compact&theme=tokyonight)
-
-
-
 
