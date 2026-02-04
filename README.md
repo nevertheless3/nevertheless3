@@ -1,4 +1,4 @@
-### Hi I'm Sarina!!
+#### Hi I'm Sarina!!
 
 🎓 High school student | SAMPAD system  
 🔍 I like turning pixels into math formulas  
