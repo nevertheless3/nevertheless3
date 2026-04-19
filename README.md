@@ -4,7 +4,7 @@
 🔍 I like turning pixels into math formulas  
 🤖 Currently working on ML, DL, and Computer Vision
 
-## My favorite tools and thecnologies
+## My favorite tools and thechnologies
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/></td>
