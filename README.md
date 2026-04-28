@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nevertheless3&show_icons=true&theme=radical" height="180"/>
-  <img width="110"/>
   <img src="https://streak-stats.demolab.com/?user=nevertheless3&theme=radical" height="180"/>
 </p>
 
