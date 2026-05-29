@@ -2,7 +2,7 @@
 
 🎓 High school student | SAMPAD system  
 🔍 I like turning pixels into math formulas  
-🤖 Currently working on ML, DL, and Computer Vision
+🤖 Currently working on machine learning, deep learning, natural language processing and Computer Vision
 
 ## My favorite tools and thechnologies
 <table>
