@@ -6,9 +6,10 @@
 
 ### 🏆 Honors & Achievements
 
+- **Iran AI Olympiad:** Participant & Medalist in 2026 — 🥉
 - **RoboCup Nationals:** 3-Year Participant & Medalist (2023–2025) — 🥉 | 🥈 | 🥉
 - **RoboCup International:** Participant in 2024 & 2026 🌍
-- **Iran AI Olympiad:** Participant & Medalist — 🥉
+
 
 
 ## My favorite tools and thechnologies
