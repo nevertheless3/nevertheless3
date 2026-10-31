@@ -2,7 +2,14 @@
 
 🎓 High school student | SAMPAD system  
 🔍 I like turning pixels into math formulas  
-🤖 Currently working on machine learning, deep learning, natural language processing and Computer Vision
+🤖 Currently working on ML, DL, NLP, CV and generative models
+
+### 🏆 Honors & Achievements
+
+- **RoboCup Nationals:** 3-Year Participant & Medalist (2023–2025) — 🥉 | 🥈 | 🥉
+- **RoboCup International:** Participant in 2024 & 2026 🌍
+- **Iran AI Olympiad:** Participant & Medalist — 🥉
+
 
 ## My favorite tools and thechnologies
 <table>
