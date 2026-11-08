@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com/?user=nevertheless3&theme=radical" width="420"/>
 </p>
 
